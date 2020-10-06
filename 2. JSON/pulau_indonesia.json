@@ -1,0 +1,240 @@
+{
+    "1.": {
+        "No": "1.",
+        "Provini": "Aceh",
+        "Pulau Bernama": "205",
+        "Pulau Tak Bernama": "458",
+        "Total": "663"
+    },
+    "2.": {
+        "No": "2.",
+        "Provini": "Sumatra Utara",
+        "Pulau Bernama": "237",
+        "Pulau Tak Bernama": "182",
+        "Total": "419"
+    },
+    "3.": {
+        "No": "3.",
+        "Provini": "Sumatra Barat",
+        "Pulau Bernama": "200",
+        "Pulau Tak Bernama": "191",
+        "Total": "391"
+    },
+    "4.": {
+        "No": "4.",
+        "Provini": "Riau",
+        "Pulau Bernama": "73",
+        "Pulau Tak Bernama": "66",
+        "Total": "139"
+    },
+    "5.": {
+        "No": "5.",
+        "Provini": "Jambi",
+        "Pulau Bernama": "16",
+        "Pulau Tak Bernama": "3",
+        "Total": "19"
+    },
+    "6.": {
+        "No": "6.",
+        "Provini": "Sumatra Selatan",
+        "Pulau Bernama": "43",
+        "Pulau Tak Bernama": "10",
+        "Total": "53"
+    },
+    "7.": {
+        "No": "7.",
+        "Provini": "Bengkulu",
+        "Pulau Bernama": "23",
+        "Pulau Tak Bernama": "24",
+        "Total": "47"
+    },
+    "8.": {
+        "No": "8.",
+        "Provini": "Lampung",
+        "Pulau Bernama": "86",
+        "Pulau Tak Bernama": "102",
+        "Total": "188"
+    },
+    "9.": {
+        "No": "9.",
+        "Provini": "Kepulauan Bangka Belitung",
+        "Pulau Bernama": "311",
+        "Pulau Tak Bernama": "639",
+        "Total": "950"
+    },
+    "10.": {
+        "No": "10.",
+        "Provini": "Kepulauan Riau",
+        "Pulau Bernama": "1.350",
+        "Pulau Tak Bernama": "1.058",
+        "Total": "2.408"
+    },
+    "11.": {
+        "No": "11.",
+        "Provini": "DKI Jakarta",
+        "Pulau Bernama": "111",
+        "Pulau Tak Bernama": "107",
+        "Total": "218"
+    },
+    "12.": {
+        "No": "12.",
+        "Provini": "Jawa Barat",
+        "Pulau Bernama": "19",
+        "Pulau Tak Bernama": "112",
+        "Total": "131"
+    },
+    "13.": {
+        "No": "13.",
+        "Provini": "Jawa Tengah",
+        "Pulau Bernama": "47",
+        "Pulau Tak Bernama": "249",
+        "Total": "296"
+    },
+    "14.": {
+        "No": "14.",
+        "Provini": "DI Yogyakarta",
+        "Pulau Bernama": "22",
+        "Pulau Tak Bernama": "1",
+        "Total": "23"
+    },
+    "15.": {
+        "No": "15.",
+        "Provini": "Jawa Timur",
+        "Pulau Bernama": "232",
+        "Pulau Tak Bernama": "55",
+        "Total": "287"
+    },
+    "16.": {
+        "No": "16.",
+        "Provini": "Banten",
+        "Pulau Bernama": "48",
+        "Pulau Tak Bernama": "83",
+        "Total": "131"
+    },
+    "17.": {
+        "No": "17.",
+        "Provini": "Bali",
+        "Pulau Bernama": "25",
+        "Pulau Tak Bernama": "60",
+        "Total": "85"
+    },
+    "18.": {
+        "No": "18.",
+        "Provini": "Nusa Tenggara Barat",
+        "Pulau Bernama": "461",
+        "Pulau Tak Bernama": "403",
+        "Total": "864"
+    },
+    "19.": {
+        "No": "19.",
+        "Provini": "Nusa Tenggara Timur",
+        "Pulau Bernama": "473",
+        "Pulau Tak Bernama": "719",
+        "Total": "1.192"
+    },
+    "20.": {
+        "No": "20.",
+        "Provini": "Kalimantan Barat",
+        "Pulau Bernama": "246",
+        "Pulau Tak Bernama": "93",
+        "Total": "339"
+    },
+    "21.": {
+        "No": "21.",
+        "Provini": "Kalimantan Tengah",
+        "Pulau Bernama": "27",
+        "Pulau Tak Bernama": "5",
+        "Total": "32"
+    },
+    "22.": {
+        "No": "22.",
+        "Provini": "Kalimantan Selatan",
+        "Pulau Bernama": "164",
+        "Pulau Tak Bernama": "156",
+        "Total": "320"
+    },
+    "23.": {
+        "No": "23.",
+        "Provini": "Kalimantan Timur",
+        "Pulau Bernama": "232",
+        "Pulau Tak Bernama": "138",
+        "Total": "370"
+    },
+    "24.": {
+        "No": "24.",
+        "Provini": "Kalimantan Utara",
+        "Pulau Bernama": "",
+        "Pulau Tak Bernama": "",
+        "Total": ""
+    },
+    "25.": {
+        "No": "25.",
+        "Provini": "Sulawesi Utara",
+        "Pulau Bernama": "310",
+        "Pulau Tak Bernama": "358",
+        "Total": "668"
+    },
+    "26.": {
+        "No": "26.",
+        "Provini": "Sulawesi Tengah",
+        "Pulau Bernama": "139",
+        "Pulau Tak Bernama": "611",
+        "Total": "750"
+    },
+    "27.": {
+        "No": "27.",
+        "Provini": "Sulawesi Selatan",
+        "Pulau Bernama": "190",
+        "Pulau Tak Bernama": "105",
+        "Total": "295"
+    },
+    "28.": {
+        "No": "28.",
+        "Provini": "Sulawesi Tenggara",
+        "Pulau Bernama": "361",
+        "Pulau Tak Bernama": "290",
+        "Total": "651"
+    },
+    "29.": {
+        "No": "29.",
+        "Provini": "Sulawesi Barat",
+        "Pulau Bernama": "",
+        "Pulau Tak Bernama": "",
+        "Total": ""
+    },
+    "30.": {
+        "No": "30.",
+        "Provini": "Gorontalo",
+        "Pulau Bernama": "96",
+        "Pulau Tak Bernama": "40",
+        "Total": "136"
+    },
+    "31.": {
+        "No": "31.",
+        "Provini": "Maluku",
+        "Pulau Bernama": "741",
+        "Pulau Tak Bernama": "681",
+        "Total": "1.422"
+    },
+    "32.": {
+        "No": "32.",
+        "Provini": "Maluku Utara",
+        "Pulau Bernama": "125",
+        "Pulau Tak Bernama": "1.349",
+        "Total": "1.474"
+    },
+    "33.": {
+        "No": "33.",
+        "Provini": "Papua",
+        "Pulau Bernama": "301",
+        "Pulau Tak Bernama": "297",
+        "Total": "598"
+    },
+    "34.": {
+        "No": "34.",
+        "Provini": "Papua Barat",
+        "Pulau Bernama": "956",
+        "Pulau Tak Bernama": "989",
+        "Total": "1.945"
+    }
+}

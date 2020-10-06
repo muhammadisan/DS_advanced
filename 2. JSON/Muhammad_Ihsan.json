@@ -1,0 +1,274 @@
+[
+  {
+    "nama provinsi": "Aceh",
+    "detail": {
+      "bernama": "205",
+      "tak bernama": "458",
+      "total": "663"
+    }
+  },
+  {
+    "nama provinsi": "Sumatra Utara",
+    "detail": {
+      "bernama": "237",
+      "tak bernama": "182",
+      "total": "419"
+    }
+  },
+  {
+    "nama provinsi": "Sumatra Barat",
+    "detail": {
+      "bernama": "200",
+      "tak bernama": "191",
+      "total": "391"
+    }
+  },
+  {
+    "nama provinsi": "Riau",
+    "detail": {
+      "bernama": "73",
+      "tak bernama": "66",
+      "total": "139"
+    }
+  },
+  {
+    "nama provinsi": "Jambi",
+    "detail": {
+      "bernama": "16",
+      "tak bernama": "3",
+      "total": "19"
+    }
+  },
+  {
+    "nama provinsi": "Sumatra Selatan",
+    "detail": {
+      "bernama": "43",
+      "tak bernama": "10",
+      "total": "53"
+    }
+  },
+  {
+    "nama provinsi": "Bengkulu",
+    "detail": {
+      "bernama": "23",
+      "tak bernama": "24",
+      "total": "47"
+    }
+  },
+  {
+    "nama provinsi": "Lampung",
+    "detail": {
+      "bernama": "86",
+      "tak bernama": "102",
+      "total": "188"
+    }
+  },
+  {
+    "nama provinsi": "Kepulauan Bangka Belitung",
+    "detail": {
+      "bernama": "311",
+      "tak bernama": "639",
+      "total": "950"
+    }
+  },
+  {
+    "nama provinsi": "Kepulauan Riau",
+    "detail": {
+      "bernama": "1.350",
+      "tak bernama": "1.058",
+      "total": "2.408"
+    }
+  },
+  {
+    "nama provinsi": "DKI Jakarta",
+    "detail": {
+      "bernama": "111",
+      "tak bernama": "107",
+      "total": "218"
+    }
+  },
+  {
+    "nama provinsi": "Jawa Barat",
+    "detail": {
+      "bernama": "19",
+      "tak bernama": "112",
+      "total": "131"
+    }
+  },
+  {
+    "nama provinsi": "Jawa Tengah",
+    "detail": {
+      "bernama": "47",
+      "tak bernama": "249",
+      "total": "296"
+    }
+  },
+  {
+    "nama provinsi": "DI Yogyakarta",
+    "detail": {
+      "bernama": "22",
+      "tak bernama": "1",
+      "total": "23"
+    }
+  },
+  {
+    "nama provinsi": "Jawa Timur",
+    "detail": {
+      "bernama": "232",
+      "tak bernama": "55",
+      "total": "287"
+    }
+  },
+  {
+    "nama provinsi": "Banten",
+    "detail": {
+      "bernama": "48",
+      "tak bernama": "83",
+      "total": "131"
+    }
+  },
+  {
+    "nama provinsi": "Bali",
+    "detail": {
+      "bernama": "25",
+      "tak bernama": "60",
+      "total": "85"
+    }
+  },
+  {
+    "nama provinsi": "Nusa Tenggara Barat",
+    "detail": {
+      "bernama": "461",
+      "tak bernama": "403",
+      "total": "864"
+    }
+  },
+  {
+    "nama provinsi": "Nusa Tenggara Timur",
+    "detail": {
+      "bernama": "473",
+      "tak bernama": "719",
+      "total": "1.192"
+    }
+  },
+  {
+    "nama provinsi": "Kalimantan Barat",
+    "detail": {
+      "bernama": "246",
+      "tak bernama": "93",
+      "total": "339"
+    }
+  },
+  {
+    "nama provinsi": "Kalimantan Tengah",
+    "detail": {
+      "bernama": "27",
+      "tak bernama": "5",
+      "total": "32"
+    }
+  },
+  {
+    "nama provinsi": "Kalimantan Selatan",
+    "detail": {
+      "bernama": "164",
+      "tak bernama": "156",
+      "total": "320"
+    }
+  },
+  {
+    "nama provinsi": "Kalimantan Timur",
+    "detail": {
+      "bernama": "232",
+      "tak bernama": "138",
+      "total": "370"
+    }
+  },
+  {
+    "nama provinsi": "Kalimantan Utara",
+    "detail": {
+      "bernama": "",
+      "tak bernama": "",
+      "total": ""
+    }
+  },
+  {
+    "nama provinsi": "Sulawesi Utara",
+    "detail": {
+      "bernama": "310",
+      "tak bernama": "358",
+      "total": "668"
+    }
+  },
+  {
+    "nama provinsi": "Sulawesi Tengah",
+    "detail": {
+      "bernama": "139",
+      "tak bernama": "611",
+      "total": "750"
+    }
+  },
+  {
+    "nama provinsi": "Sulawesi Selatan",
+    "detail": {
+      "bernama": "190",
+      "tak bernama": "105",
+      "total": "295"
+    }
+  },
+  {
+    "nama provinsi": "Sulawesi Tenggara",
+    "detail": {
+      "bernama": "361",
+      "tak bernama": "290",
+      "total": "651"
+    }
+  },
+  {
+    "nama provinsi": "Sulawesi Barat",
+    "detail": {
+      "bernama": "",
+      "tak bernama": "",
+      "total": ""
+    }
+  },
+  {
+    "nama provinsi": "Gorontalo",
+    "detail": {
+      "bernama": "96",
+      "tak bernama": "40",
+      "total": "136"
+    }
+  },
+  {
+    "nama provinsi": "Maluku",
+    "detail": {
+      "bernama": "741",
+      "tak bernama": "681",
+      "total": "1.422"
+    }
+  },
+  {
+    "nama provinsi": "Maluku Utara",
+    "detail": {
+      "bernama": "125",
+      "tak bernama": "1.349",
+      "total": "1.474"
+    }
+  },
+  {
+    "nama provinsi": "Papua",
+    "detail": {
+      "bernama": "301",
+      "tak bernama": "297",
+      "total": "598"
+    }
+  },
+  {
+    "nama provinsi": "Papua Barat",
+    "detail": {
+      "bernama": "956",
+      "tak bernama": "989",
+      "total": "1.945"
+    }
+  }
+]
